@@ -24,13 +24,13 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Efe Can Kara
-  image             : pp.jpeg
+  image             : /pp.jpeg
   email             : efecan_kara@proton.me
   github            : KARSTERR
   gitlab            : KARSTERR
-  linkedin          : # TO-DO get linkedin id
-  stackoverflow     : # TO-DO get stackoverflow id
-  youtube           : # TO-DO get youtube id
+  # linkedin          : # TO-DO get linkedin id
+  # stackoverflow     : # TO-DO get stackoverflow id
+  # youtube           : # TO-DO get youtube id
 
 
 ### Posts ###
