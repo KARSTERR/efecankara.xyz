@@ -1,4 +1,3 @@
-
 ---
 title: Understanding Version Control and Its Advantages
 tags: [Version Control]
