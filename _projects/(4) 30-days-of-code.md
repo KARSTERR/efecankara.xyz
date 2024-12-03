@@ -1,7 +1,6 @@
 ---
 name: 30-days-of-code
 tools: [HackerRank, C++]
-image: https://github.com/KARSTERR/30-days-of-code/blob/main/images.jpg
 description: Welcome to my 30 Days of Code challenge repository! This project contains solutions to the HackerRank challenge, where I tackle a new problem every day to improve my C++ skills and enhance my problem-solving abilities.
 external_url: https://github.com/KARSTERR/30-days-of-code
 ---

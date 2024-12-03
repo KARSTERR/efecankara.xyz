@@ -1,7 +1,6 @@
 ---
 name: fh-library
 tools: [C++]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
 description: This project provides a C++ library for simple file operations, including reading, writing, and parsing files. It simplifies file management tasks for developers working with text and binary files.
 external_url: https://github.com/KARSTERR/fh-library
 ---
