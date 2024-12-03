@@ -23,27 +23,14 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
-# dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
+  name              : Efe Can Kara
+  image             : pp.jpeg
+  email             : efecan_kara@proton.me
+  github            : KARSTERR
+  gitlab            : KARSTERR
+  linkedin          : # TO-DO get linkedin id
+  stackoverflow     : # TO-DO get stackoverflow id
+  youtube           : # TO-DO get youtube id
 
 
 ### Posts ###
@@ -69,17 +56,7 @@ analytics:
   enabled: false                                        # Set true to enable analytics
   google:
     tracking_id: your-google-tracking-id
-
-
-### Buy me a coffee ###
-# See https://www.buymeacoffee.com/
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
-  description: "Support me on Buy me a coffee!"
-
+# TO-DO set google analytics
 
 ### Defaults for collections ###
 defaults:
