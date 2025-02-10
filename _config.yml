@@ -1,9 +1,9 @@
-title:              Efe Can Kara | Portfolio
+title:              Efe Can Kara
 email:              efecan_kara@proton.me
 description:        add, commit, push, repeat.
 author:             Efe Can Kara
-baseurl:            "https://efecankara.xyz"
-url:                ""
+baseurl:            ""
+url:                "https://efecankara.xyz"
 
 # Social Profiles
 twitter_username:   karsterrx
