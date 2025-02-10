@@ -1,19 +1,18 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Efe Can Kara | Portfolio
+email:              efecan_kara@proton.me
+description:        add, commit, push, repeat.
+author:             Efe Can Kara
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+url:                "https://efecankara.xyz"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   karsterrx
+github_username:    KARSTERR
+instagram_username: karsterr.dev
+linkedin_username:  karsterr
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   469776529 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
