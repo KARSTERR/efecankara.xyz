@@ -10,7 +10,15 @@ body.dark-mode {
 }
 
 body.dark-mode a {
-  color: #bb86fc;
+  color: #ffffff;
+}
+
+body.dark-mode nav {
+  background-color: #1e1e1e;
+}
+
+body.dark-mode nav a {
+  color: #ffffff;
 }
 
 /* Add more dark mode styles as needed */
