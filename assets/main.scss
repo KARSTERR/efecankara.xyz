@@ -3,3 +3,14 @@
 ---
 
 @import "styles";
+
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark-mode a {
+  color: #bb86fc;
+}
+
+/* Add more dark mode styles as needed */
