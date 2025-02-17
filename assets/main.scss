@@ -21,4 +21,20 @@ body.dark-mode nav a {
   color: #ffffff;
 }
 
+body.dark-mode li#dark-mode-toggle i.fa-moon {
+  display: none;
+}
+
+body.dark-mode li#dark-mode-toggle i.fa-sun {
+  display: inline;
+}
+
+li#dark-mode-toggle i.fa-sun {
+  display: none;
+}
+
+li#dark-mode-toggle i.fa-moon {
+  display: inline;
+}
+
 /* Add more dark mode styles as needed */
