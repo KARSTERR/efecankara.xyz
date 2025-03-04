@@ -1,0 +1,94 @@
+baseURL = "https://efecankara.xyz"
+title = "Efe Can Kara | KARSTERR"
+theme = "hugo-blog-awesome"
+defaultContentLanguage = "tr"
+# Remove defaultContentLanguageInSubdir = true for single language
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"]
+
+[services]
+[services.googleAnalytics]
+id = 'G-P9S60MH5X3'
+[services.disqus]
+shortname = 'https-efecankara-xyz'
+
+[markup]
+[markup.highlight]
+noClasses = false
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 4
+ordered = false
+
+# Global browserconfig params
+[params.browserconfig]
+TileColor = "#2d89ef"
+
+# Global webmanifest configuration
+[params.webmanifest]
+name = "Efe Can Kara | KARSTERR"
+short_name = "KARSTERR"
+start_url = "/"
+theme_color = "#434648"
+background_color = "#131418"
+display = "standalone"
+
+# Only Turkish language configuration
+[languages.tr]
+languageName = "Türkçe"
+languageCode = "tr"
+contentDir = "content"  # Changed from content/tr to just content
+weight = 1
+
+[languages.tr.menu]
+[[languages.tr.menu.main]]
+pageRef = "/"
+name = "Ana Sayfa"
+url = "/"
+weight = 10
+[[languages.tr.menu.main]]
+pageRef = "posts"
+name = "Yazılar"
+url = "/posts/"
+weight = 20
+[[languages.tr.menu.main]]
+pageRef = "about"
+name = "Hakkımda"
+url = "/about/"
+weight = 30
+
+[languages.tr.params]
+sitename = "Efe Can Kara | KARSTERR"
+defaultColor = "dark"
+description = "Backend Geliştirici | Mobil Geliştirici | IoT Meraklısı"
+mainSections = ['posts']
+toc = true
+tocOpen = false
+goToTop = true
+dateFormat = "2 Ocak 2006"
+rssFeedDescription = "summary"
+
+[languages.tr.params.author]
+avatar = "avatar.jpg"
+intro = "KARSTERR"
+name = "Efe Can Kara"
+description = "Backend Geliştirici | Mobil Geliştirici | IoT Meraklısı"
+
+# Global social links
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/hugo-sid"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://instagram.com/karsterr.dev"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/karsterr"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"

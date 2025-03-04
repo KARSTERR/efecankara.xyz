@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anasayfa on Efe Can Kara | KARSTERR</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Anasayfa on Efe Can Kara | KARSTERR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hakkımda</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/about/</guid>
+      
+      <description>&lt;h1 id=&#34;merhaba--ben-efe-can-kara&#34;&gt;&lt;div align=&#34;center&#34;&gt;Merhaba! 👋 Ben Efe Can Kara.&lt;/div&gt;&lt;/h1&gt;
+&lt;div align=&#34;center&#34;&gt;
+    &lt;img src=&#34;./gif.gif&#34; alt=&#34;Hoşgeldin GIF&#39;i&#34;&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-sayfama-hoşgeldiniz&#34;&gt;🚀 Sayfama Hoşgeldiniz!&lt;/h3&gt;
+&lt;p&gt;Ben tutkulu bir &lt;strong&gt;backend geliştiricisi&lt;/strong&gt;, teknoloji meraklısı ve problem çözücüyüm. Şu anda &lt;strong&gt;Sivas Cumhuriyet Üniversitesi&lt;/strong&gt;&amp;rsquo;nde &lt;strong&gt;Bilgisayar Sistemleri ve Bilişim Teknolojileri&lt;/strong&gt; bölümünde 3. sınıf öğrencisiyim. Uzmanlık alanım &lt;strong&gt;backend geliştirme&lt;/strong&gt;, şu anda &lt;strong&gt;PHP ve PostgreSQL&lt;/strong&gt; ile becerilerimi geliştiriyorum. Aynı zamanda &lt;strong&gt;mobil uygulamalar&lt;/strong&gt; geliştiriyorum ve &lt;strong&gt;C++ projeleri, Arduino/ESP8266 geliştirme ve Linux otomasyon scripting&lt;/strong&gt; üzerinde denemeler yapıyorum.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Geleceği tahmin etmenin en iyi yolu, onu yaratmaktır.&amp;rdquo; – Alan Kay&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
