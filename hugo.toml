@@ -1,0 +1,4 @@
+baseURL = 'https://efecankara.xyz/'
+languageCode = 'tr'
+title = 'Ye, iç, kodla, tekrarla...'
+theme = 'ananke'
